@@ -1,0 +1,10 @@
+{
+  "name": "DevOps Shack VoiceOps AI",
+  "description": "Real-time AI voice assistant for DevOps learning, local diagnostics, and safe troubleshooting demonstrations.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
